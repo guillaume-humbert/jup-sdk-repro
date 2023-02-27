@@ -1,0 +1,19 @@
+{
+  "name": "jup-sdk-repro",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "@jup-ag/core": "^4.0.0-beta.12",
+    "@solana/web3.js": "^1.73.2",
+    "bs58": "^4.0.1",
+    "jsbi": "^4.3.0"
+  },
+  "devDependencies": {
+    "@types/bs58": "^4.0.1",
+    "typescript": "^4.5.3",
+    "ts-node": "^10.4.0"
+  },
+  "resolutions": {
+    "@solana/buffer-layout": "4.0.0"
+  }
+}
